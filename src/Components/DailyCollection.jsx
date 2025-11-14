@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 // import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../Styles/DailyCollection.css";
+// import "../Styles/DailyCollection.css";
 
 const DailyCollection = () => {
   const [formData, setFormData] = useState({
